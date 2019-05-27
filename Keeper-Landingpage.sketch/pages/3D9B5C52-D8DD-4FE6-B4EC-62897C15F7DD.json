@@ -273,8 +273,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 }
 },
@@ -284,13 +286,13 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{3, 12}, {146, 32}}",
+"glyphBounds" : "{{3, -3}, {146, 32}}",
 "frame" : {
 "x" : 120,
-"y" : 228,
+"y" : 243,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 55,
+"height" : 28,
 "width" : 150
 },
 "do_objectID" : "67CB8A17-569D-4B80-AD98-5D2582919C7D",
@@ -341,8 +343,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -943,22 +947,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{3, 14}, {207, 30}}",
+"glyphBounds" : "{{3, -1}, {207, 30}}",
 "frame" : {
 "_class" : "rect",
-"height" : 55,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "05BBFE17-0D25-42BF-9AEA-17E40975D23F",
 "x" : 351,
 "width" : 210,
-"y" : 228
+"y" : 243
 },
 "do_objectID" : "39B2DDA4-AB7D-4602-AE78-6CE1FE8743BC",
 "layerListExpandedType" : 0,
@@ -1009,8 +1015,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1056,22 +1064,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{3, 10}, {126, 29}}",
+"glyphBounds" : "{{3, 0}, {126, 29}}",
 "frame" : {
 "_class" : "rect",
-"height" : 49,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "2835A147-A20D-442E-A079-F2517FF46ECA",
 "x" : 120,
 "width" : 129,
-"y" : 303
+"y" : 313
 },
 "do_objectID" : "95113EA4-7880-42E7-B316-6A6285095F57",
 "layerListExpandedType" : 0,
@@ -1122,8 +1132,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1169,22 +1181,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{3, 11}, {180, 28}}",
+"glyphBounds" : "{{3, 1}, {180, 28}}",
 "frame" : {
 "_class" : "rect",
-"height" : 49,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "40692D20-FB1D-4218-BDEB-40C027CBF4C8",
 "x" : 365,
 "width" : 183,
-"y" : 303
+"y" : 313
 },
 "do_objectID" : "F4F2ED6D-5A40-4F68-9C20-C199DC6DCAEE",
 "layerListExpandedType" : 0,
@@ -1235,8 +1249,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1282,22 +1298,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{2, 7}, {84, 20}}",
+"glyphBounds" : "{{2, 4}, {84, 20}}",
 "frame" : {
 "_class" : "rect",
-"height" : 33,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "59024543-E0F5-41A9-B106-2874A2FA0741",
 "x" : 120,
 "width" : 86,
-"y" : 385
+"y" : 388
 },
 "do_objectID" : "39FE4236-6C97-4C97-8A6B-1B0FEEBA8541",
 "layerListExpandedType" : 0,
@@ -1348,8 +1366,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1395,22 +1415,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{2, 8}, {120, 19}}",
+"glyphBounds" : "{{2, 5}, {120, 19}}",
 "frame" : {
 "_class" : "rect",
-"height" : 33,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "86AA4FC8-0BAC-4B9C-B610-AB8DF3924D18",
 "x" : 395,
 "width" : 122,
-"y" : 385
+"y" : 388
 },
 "do_objectID" : "F9B5E667-6B60-4331-91CF-C515DA6A77D5",
 "layerListExpandedType" : 0,
@@ -1461,8 +1483,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1508,22 +1532,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {64, 15}}",
+"glyphBounds" : "{{1, 7}, {64, 15}}",
 "frame" : {
 "_class" : "rect",
-"height" : 24,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "DBA4E476-0227-4F7D-8A8E-5981218A8EC3",
 "x" : 120,
 "width" : 65,
-"y" : 462
+"y" : 460
 },
 "do_objectID" : "69584986-5711-467B-BDFB-D9C292BBECAD",
 "layerListExpandedType" : 0,
@@ -1574,8 +1600,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1621,22 +1649,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 6}, {91, 14}}",
+"glyphBounds" : "{{1, 8}, {91, 14}}",
 "frame" : {
 "_class" : "rect",
-"height" : 24,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "4C46460B-E2BE-4B5B-A2ED-F4F36319BA70",
 "x" : 410,
 "width" : 92,
-"y" : 462
+"y" : 460
 },
 "do_objectID" : "0E88B946-6524-4C1A-B48D-CA9BCE806D33",
 "layerListExpandedType" : 0,
@@ -1687,8 +1717,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1734,22 +1766,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 4}, {50, 12}}",
+"glyphBounds" : "{{1, 8}, {50, 12}}",
 "frame" : {
 "_class" : "rect",
-"height" : 19,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "4A4702C5-0897-459E-9A74-A725E6901DE1",
 "x" : 120,
 "width" : 51,
-"y" : 536
+"y" : 532
 },
 "do_objectID" : "459056D2-419B-4868-A163-4A428DDFABCB",
 "layerListExpandedType" : 0,
@@ -1800,8 +1834,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1847,22 +1883,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {70, 11}}",
+"glyphBounds" : "{{1, 9}, {70, 11}}",
 "frame" : {
 "_class" : "rect",
-"height" : 19,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "28390E26-E7A7-4126-A038-46CA1AC44331",
 "x" : 420,
 "width" : 72,
-"y" : 536
+"y" : 532
 },
 "do_objectID" : "3CAD80B7-4A55-4724-9583-285BAAD178C3",
 "layerListExpandedType" : 0,
@@ -1913,8 +1951,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -1960,22 +2000,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 3}, {42, 11}}",
+"glyphBounds" : "{{1, 9}, {42, 11}}",
 "frame" : {
 "_class" : "rect",
-"height" : 17,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "3F37804B-8886-40FC-9646-F9D6D37F241E",
 "x" : 120,
 "width" : 43,
-"y" : 608
+"y" : 602
 },
 "do_objectID" : "F4392D16-8B8D-4B58-B4A2-89AF3CBB71E5",
 "layerListExpandedType" : 0,
@@ -2026,8 +2068,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 0
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -2073,22 +2117,24 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 4}, {60, 10}}",
+"glyphBounds" : "{{1, 10}, {60, 10}}",
 "frame" : {
 "_class" : "rect",
-"height" : 17,
+"height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "A9D7DE4C-8204-4D41-91F6-C97B396972DF",
 "x" : 426,
 "width" : 61,
-"y" : 608
+"y" : 602
 },
 "do_objectID" : "B0A06D59-3574-44C2-8DE4-AE8F110151D9",
 "layerListExpandedType" : 0,
@@ -2139,8 +2185,10 @@
 "kerning" : 0,
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 28,
 "_class" : "paragraphStyle",
-"alignment" : 2
+"maximumLineHeight" : 28
 }
 },
 "location" : 0
@@ -2193,14 +2241,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {124, 19}}",
+"glyphBounds" : "{{1, 5}, {241, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 24,
 "constrainProportions" : false,
 "do_objectID" : "C3516F05-A209-4BF1-9F30-8F2E07822524",
 "x" : 120,
-"width" : 125,
+"width" : 242,
 "y" : 742
 },
 "do_objectID" : "5E344629-CD0B-48F3-AE7D-902C103F3A8B",
@@ -2223,7 +2271,7 @@
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Par-large left\/",
+"name" : "Par-large-left-defau",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -2232,7 +2280,7 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 15,
+"length" : 28,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
@@ -2260,120 +2308,7 @@
 }
 ],
 "_class" : "attributedString",
-"string" : "Par-large left\/"
-},
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "text",
-"booleanOperation" : -1,
-"resizingConstraint" : 47,
-"automaticallyDrawOnUnderlyingPath" : false
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"_class" : "style",
-"miterLimit" : 10,
-"do_objectID" : "B41B3926-B0ED-4F0E-9F11-F343AA879F1C",
-"startMarkerType" : 0,
-"windingRule" : 1,
-"textStyle" : {
-"do_objectID" : "6B07904F-99F1-4748-9C53-FB19FEF6023B",
-"_class" : "textStyle",
-"verticalAlignment" : 0,
-"encodedAttributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Bold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-}
-},
-"endMarkerType" : 0
-},
-"glyphBounds" : "{{1, 5}, {151, 19}}",
-"frame" : {
-"_class" : "rect",
-"height" : 24,
-"constrainProportions" : false,
-"do_objectID" : "95743DB6-0A2D-412E-BCE5-0630ECDED8B5",
-"x" : 506,
-"width" : 152,
-"y" : 742
-},
-"do_objectID" : "D83C9CB6-BCB8-4620-9335-E046E8B61353",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "88523218-B5D9-4899-8392-EBF48B3AFDDA",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"rotation" : 0,
-"dontSynchroniseWithSymbol" : false,
-"lineSpacingBehaviour" : 2,
-"textBehaviour" : 0,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Par-large center\/",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isLocked" : false,
-"attributedString" : {
-"attributes" : [
-{
-"length" : 17,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Bold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-},
-"location" : 0
-}
-],
-"_class" : "attributedString",
-"string" : "Par-large center\/"
+"string" : "Par-large-left-default-bold\/"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2397,7 +2332,7 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "OpenSans-Semibold",
+"name" : "OpenSans-Bold",
 "size" : 18
 },
 "_class" : "fontDescriptor"
@@ -2419,14 +2354,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {119, 19}}",
+"glyphBounds" : "{{1, 5}, {291, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 24,
 "constrainProportions" : false,
 "do_objectID" : "0CE2EF90-7F7D-4FB2-80C6-18547634820F",
 "x" : 120,
-"width" : 120,
+"width" : 292,
 "y" : 812
 },
 "do_objectID" : "2C856D53-1F48-4148-81C1-159905CAB900",
@@ -2449,7 +2384,7 @@
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Par-large left\/",
+"name" : "Par-large-left-defau",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -2458,12 +2393,12 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 15,
+"length" : 35,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "OpenSans-Semibold",
+"name" : "OpenSans-Bold",
 "size" : 18
 },
 "_class" : "fontDescriptor"
@@ -2486,120 +2421,7 @@
 }
 ],
 "_class" : "attributedString",
-"string" : "Par-large left\/"
-},
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "text",
-"booleanOperation" : -1,
-"resizingConstraint" : 47,
-"automaticallyDrawOnUnderlyingPath" : false
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"_class" : "style",
-"miterLimit" : 10,
-"do_objectID" : "A1240823-5A0D-4F0C-92B7-FA87A5570951",
-"startMarkerType" : 0,
-"windingRule" : 1,
-"textStyle" : {
-"do_objectID" : "4A8B2349-F679-4F74-8A21-154F4C7E5AE3",
-"_class" : "textStyle",
-"verticalAlignment" : 0,
-"encodedAttributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-}
-},
-"endMarkerType" : 0
-},
-"glyphBounds" : "{{1, 5}, {146, 19}}",
-"frame" : {
-"_class" : "rect",
-"height" : 24,
-"constrainProportions" : false,
-"do_objectID" : "2D8DB6DF-3CFF-4C12-9C7F-A3074B3B3B4B",
-"x" : 509,
-"width" : 147,
-"y" : 812
-},
-"do_objectID" : "AF96CC7F-3F63-440B-8470-687CD5A1AB9B",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "E499659A-2CA2-46B2-BB60-8AD979C847DA",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"rotation" : 0,
-"dontSynchroniseWithSymbol" : false,
-"lineSpacingBehaviour" : 2,
-"textBehaviour" : 0,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Par-large center\/",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isLocked" : false,
-"attributedString" : {
-"attributes" : [
-{
-"length" : 17,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-},
-"location" : 0
-}
-],
-"_class" : "attributedString",
-"string" : "Par-large center\/"
+"string" : "Par-large-left-default-bold-italic\/"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2623,7 +2445,7 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "OpenSans-Semibold",
+"name" : "OpenSans-BoldItalic",
 "size" : 18
 },
 "_class" : "fontDescriptor"
@@ -2645,14 +2467,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {119, 19}}",
+"glyphBounds" : "{{0, 5}, {239, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 24,
 "constrainProportions" : false,
 "do_objectID" : "96458718-C7C9-4DFB-BBAC-104784D77E28",
 "x" : 120,
-"width" : 120,
+"width" : 237,
 "y" : 882
 },
 "do_objectID" : "B7FC8D3F-F0FE-4511-B44A-789EC4886980",
@@ -2675,7 +2497,7 @@
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Par-large left\/",
+"name" : "Par-large-left-defau",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -2684,12 +2506,12 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 15,
+"length" : 30,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "OpenSans-Semibold",
+"name" : "OpenSans-BoldItalic",
 "size" : 18
 },
 "_class" : "fontDescriptor"
@@ -2712,120 +2534,7 @@
 }
 ],
 "_class" : "attributedString",
-"string" : "Par-large left\/"
-},
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "text",
-"booleanOperation" : -1,
-"resizingConstraint" : 47,
-"automaticallyDrawOnUnderlyingPath" : false
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"_class" : "style",
-"miterLimit" : 10,
-"do_objectID" : "98C0CA41-7221-46A2-844C-99E79A1E6C1F",
-"startMarkerType" : 0,
-"windingRule" : 1,
-"textStyle" : {
-"do_objectID" : "4F4E18BE-27D3-450B-A680-36EEA7684D83",
-"_class" : "textStyle",
-"verticalAlignment" : 0,
-"encodedAttributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-}
-},
-"endMarkerType" : 0
-},
-"glyphBounds" : "{{1, 5}, {146, 19}}",
-"frame" : {
-"_class" : "rect",
-"height" : 24,
-"constrainProportions" : false,
-"do_objectID" : "67A552AD-FD54-4C30-976D-B6ACF9410C2D",
-"x" : 508.5,
-"width" : 147,
-"y" : 882
-},
-"do_objectID" : "83257B26-ADD4-4794-BFEB-3F07C3FD70DC",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "87203711-2968-4B55-9463-10FE45916931",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"rotation" : 0,
-"dontSynchroniseWithSymbol" : false,
-"lineSpacingBehaviour" : 2,
-"textBehaviour" : 0,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Par-large center\/",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isLocked" : false,
-"attributedString" : {
-"attributes" : [
-{
-"length" : 17,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-},
-"location" : 0
-}
-],
-"_class" : "attributedString",
-"string" : "Par-large center\/"
+"string" : "Par-large-left-default-italic\/"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -2871,14 +2580,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {119, 19}}",
+"glyphBounds" : "{{1, 5}, {188, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 24,
 "constrainProportions" : false,
 "do_objectID" : "0DFFC811-CBE0-47F0-B04C-64BD124AC2B7",
 "x" : 120,
-"width" : 120,
+"width" : 189,
 "y" : 952
 },
 "do_objectID" : "54744577-C94A-4D4B-B8D0-4A4DF877541B",
@@ -2901,7 +2610,7 @@
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Par-large left\/",
+"name" : "Par-large-left-defau",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -2910,7 +2619,7 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 15,
+"length" : 23,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
@@ -2938,120 +2647,7 @@
 }
 ],
 "_class" : "attributedString",
-"string" : "Par-large left\/"
-},
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "text",
-"booleanOperation" : -1,
-"resizingConstraint" : 47,
-"automaticallyDrawOnUnderlyingPath" : false
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"_class" : "style",
-"miterLimit" : 10,
-"do_objectID" : "6101AA91-F05B-4F39-851E-312DA27B18D5",
-"startMarkerType" : 0,
-"windingRule" : 1,
-"textStyle" : {
-"do_objectID" : "37B0CB44-3D23-4D1F-98FA-548755BE59FF",
-"_class" : "textStyle",
-"verticalAlignment" : 0,
-"encodedAttributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-}
-},
-"endMarkerType" : 0
-},
-"glyphBounds" : "{{1, 5}, {146, 19}}",
-"frame" : {
-"_class" : "rect",
-"height" : 24,
-"constrainProportions" : false,
-"do_objectID" : "C7B2764E-7124-470B-B7DF-298C51D6D588",
-"x" : 509,
-"width" : 147,
-"y" : 952
-},
-"do_objectID" : "57067EA8-9836-485B-AB94-F3FD395B42BB",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "C8D2E873-59FC-4869-9B90-9E5054621A23",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"rotation" : 0,
-"dontSynchroniseWithSymbol" : false,
-"lineSpacingBehaviour" : 2,
-"textBehaviour" : 0,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Par-large center\/",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isLocked" : false,
-"attributedString" : {
-"attributes" : [
-{
-"length" : 17,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-},
-"location" : 0
-}
-],
-"_class" : "attributedString",
-"string" : "Par-large center\/"
+"string" : "Par-large-left-default\/"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -3097,14 +2693,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {119, 19}}",
+"glyphBounds" : "{{1, 5}, {120, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 24,
 "constrainProportions" : false,
 "do_objectID" : "1E973C4F-66B8-4680-A143-46557CF6E7F7",
 "x" : 120,
-"width" : 120,
+"width" : 121,
 "y" : 1022
 },
 "do_objectID" : "D7A457D2-B9AE-400E-9460-531F71A86819",
@@ -3127,7 +2723,7 @@
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Par-large left\/",
+"name" : "Par-large-left\/",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -3164,120 +2760,7 @@
 }
 ],
 "_class" : "attributedString",
-"string" : "Par-large left\/"
-},
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "text",
-"booleanOperation" : -1,
-"resizingConstraint" : 47,
-"automaticallyDrawOnUnderlyingPath" : false
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"_class" : "style",
-"miterLimit" : 10,
-"do_objectID" : "D64AAB1E-A4A4-4096-9256-40136C6349F2",
-"startMarkerType" : 0,
-"windingRule" : 1,
-"textStyle" : {
-"do_objectID" : "738A739C-0D0D-4A36-A0B7-7DC4E355A579",
-"_class" : "textStyle",
-"verticalAlignment" : 0,
-"encodedAttributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-}
-},
-"endMarkerType" : 0
-},
-"glyphBounds" : "{{1, 5}, {146, 19}}",
-"frame" : {
-"_class" : "rect",
-"height" : 24,
-"constrainProportions" : false,
-"do_objectID" : "B42B2026-6195-4FAF-BCCE-873597621076",
-"x" : 508.5,
-"width" : 147,
-"y" : 1022
-},
-"do_objectID" : "B23FA15E-01ED-4EB1-9888-9C528F186F99",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "2EF3658D-0E50-4D51-BE7F-1A7487EF4DE3",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"rotation" : 0,
-"dontSynchroniseWithSymbol" : false,
-"lineSpacingBehaviour" : 2,
-"textBehaviour" : 0,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Par-large center\/",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isLocked" : false,
-"attributedString" : {
-"attributes" : [
-{
-"length" : 17,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "OpenSans-Semibold",
-"size" : 18
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
-}
-},
-"location" : 0
-}
-],
-"_class" : "attributedString",
-"string" : "Par-large center\/"
+"string" : "Par-large-left\/"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -3323,14 +2806,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {119, 19}}",
+"glyphBounds" : "{{1, 5}, {120, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 24,
 "constrainProportions" : false,
 "do_objectID" : "E834D76F-973B-4ACD-B14A-956FA863C6CB",
 "x" : 120,
-"width" : 120,
+"width" : 121,
 "y" : 1092
 },
 "do_objectID" : "064B0DC2-75AD-4332-98C4-7C7028AEE722",
@@ -3353,7 +2836,7 @@
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Par-large left\/",
+"name" : "Par-large-left\/",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -3390,7 +2873,7 @@
 }
 ],
 "_class" : "attributedString",
-"string" : "Par-large left\/"
+"string" : "Par-large-left\/"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
@@ -3404,11 +2887,124 @@
 "style" : {
 "_class" : "style",
 "miterLimit" : 10,
-"do_objectID" : "8690A01C-A845-4A76-AB29-C57DB9AE92AD",
+"do_objectID" : "B6528FC0-2D58-49B7-BAF4-3E7F2C2C9AB3",
 "startMarkerType" : 0,
 "windingRule" : 1,
 "textStyle" : {
-"do_objectID" : "4338C3E7-3287-4AFD-95D4-FDC6952B0FA2",
+"do_objectID" : "6855456D-FBB4-478F-8D2D-A9AB09A6D8C1",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Bold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 5}, {125, 19}}",
+"frame" : {
+"_class" : "rect",
+"height" : 24,
+"constrainProportions" : false,
+"do_objectID" : "E82F9624-4F1A-4984-A9F1-A12F0B64C686",
+"x" : 450,
+"width" : 126,
+"y" : 742
+},
+"do_objectID" : "AC69E113-74CF-4CB4-B3A2-41C39E260957",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "53B8AE5E-0F7F-4E8F-9112-10DD7019FB4C",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Par-large-left\/",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 15,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Bold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Par-large-left\/"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "1DEEC4C5-BEE1-4E71-B5B7-B63CADC42416",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "BF0C5C44-0AEB-45BB-B609-10AD666CCB91",
 "_class" : "textStyle",
 "verticalAlignment" : 0,
 "encodedAttributes" : {
@@ -3430,27 +3026,27 @@
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
 "_class" : "paragraphStyle",
-"alignment" : 2
+"alignment" : 0
 }
 }
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 5}, {146, 19}}",
+"glyphBounds" : "{{1, 5}, {120, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 24,
 "constrainProportions" : false,
-"do_objectID" : "37C6809E-E6B3-4E9F-9FCE-8C618AA5B965",
-"x" : 508.5,
-"width" : 147,
-"y" : 1092
+"do_objectID" : "238A8B3D-8636-4AC5-8E09-B4E48C349B5F",
+"x" : 450,
+"width" : 121,
+"y" : 812
 },
-"do_objectID" : "B10A5E36-934D-47FC-93E1-34255A07AD2D",
+"do_objectID" : "2A6B984F-CE24-44EC-8931-97DF160F0D32",
 "layerListExpandedType" : 0,
 "exportOptions" : {
 "shouldTrim" : false,
-"do_objectID" : "FF5611CC-2AE0-448F-BF33-1B8140DA231F",
+"do_objectID" : "891AB86C-DDA0-4DAA-9DEB-591D092B9AB4",
 "includedLayerIds" : [
 
 ],
@@ -3466,7 +3062,7 @@
 "textBehaviour" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Par-large center\/",
+"name" : "Par-large-left\/",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -3475,7 +3071,7 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 17,
+"length" : 15,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
@@ -3496,14 +3092,466 @@
 "textStyleVerticalAlignmentKey" : 0,
 "paragraphStyle" : {
 "_class" : "paragraphStyle",
-"alignment" : 2
+"alignment" : 0
 }
 },
 "location" : 0
 }
 ],
 "_class" : "attributedString",
-"string" : "Par-large center\/"
+"string" : "Par-large-left\/"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "079D2C17-41D4-4146-A014-5AC1E9318310",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "8BA2BA35-3183-4FF6-BB0E-B4A93794BDBF",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 5}, {120, 19}}",
+"frame" : {
+"_class" : "rect",
+"height" : 24,
+"constrainProportions" : false,
+"do_objectID" : "FFF12CE5-C3AE-4CA5-B434-20F4B31A321C",
+"x" : 450,
+"width" : 121,
+"y" : 882
+},
+"do_objectID" : "32608A2B-E05C-4B63-9C68-609563160A10",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "F9F4B9E4-EFEB-4933-895A-6F83202FBC31",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Par-large-left\/",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 15,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Par-large-left\/"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "4BEC88ED-C9EA-45B1-B418-DF363CF6D842",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "C3AAAF49-FB23-41C1-846B-A9D8E6C89115",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 5}, {120, 19}}",
+"frame" : {
+"_class" : "rect",
+"height" : 24,
+"constrainProportions" : false,
+"do_objectID" : "E445D503-16AD-4D47-9C91-E934190619C7",
+"x" : 450,
+"width" : 121,
+"y" : 952
+},
+"do_objectID" : "5870CD0F-3DB2-41E9-A54F-02E222D2E202",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "966E054D-944F-4572-9B54-E6B7C61B9EF4",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Par-large-left\/",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 15,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Par-large-left\/"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "ACB2AC7A-5F46-465A-B25D-28616F1974DC",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "705419C8-CC87-4050-97A2-9A2B2433ACCA",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 5}, {120, 19}}",
+"frame" : {
+"_class" : "rect",
+"height" : 24,
+"constrainProportions" : false,
+"do_objectID" : "BA1949F6-AB9D-43C2-8FFD-99BBC249B958",
+"x" : 450,
+"width" : 121,
+"y" : 1022
+},
+"do_objectID" : "4C909CE3-E168-4418-BA55-125746F3AAED",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "6BD3D84D-9EA4-45AB-A37C-C5AED7FD1D45",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Par-large-left\/",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 15,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Par-large-left\/"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "86B317F5-11DE-4DD9-B732-2E82B2533C6A",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "D3D6C898-D04B-4D16-B71B-0C08E678FD90",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 5}, {120, 19}}",
+"frame" : {
+"_class" : "rect",
+"height" : 24,
+"constrainProportions" : false,
+"do_objectID" : "A1301732-7217-43A4-B049-BC0043014577",
+"x" : 450,
+"width" : 121,
+"y" : 1092
+},
+"do_objectID" : "175F6EEA-939F-4E1C-8709-C6D04EA1C1C6",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "27794B26-B866-4071-9510-24DE3DB59310",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Par-large-left\/",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 15,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "OpenSans-Semibold",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"kerning" : 0,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Par-large-left\/"
 },
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,

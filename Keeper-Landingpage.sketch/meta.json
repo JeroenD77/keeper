@@ -26,9 +26,10 @@
 },
 "version" : 112,
 "fonts" : [
-"OpenSans-Light",
 "OpenSans-Bold",
-"OpenSans-Semibold"
+"OpenSans-BoldItalic",
+"OpenSans-Semibold",
+"OpenSans-Light"
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
