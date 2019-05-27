@@ -11,7 +11,10 @@
 "name" : "Design System",
 "artboards" : {
 "9E7BA3C3-ACB1-48AF-9468-3980745B8B56" : {
-"name" : "Desktop HD"
+"name" : "Typography"
+},
+"E7099D27-B87D-4C02-8509-7595A864B4DC" : {
+"name" : "Color styles"
 }
 }
 },
@@ -27,7 +30,9 @@
 "version" : 112,
 "fonts" : [
 "OpenSans-Bold",
-"OpenSans-BoldItalic",
+"OpenSans",
+"OpenSans-Italic",
+"OpenSansLight-Italic",
 "OpenSans-Semibold",
 "OpenSans-Light"
 ],
