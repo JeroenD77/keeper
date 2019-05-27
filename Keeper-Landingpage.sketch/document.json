@@ -1,7 +1,83 @@
 {
 "layerStyles" : {
 "objects" : [
-
+{
+"do_objectID" : "B689146D-B0C3-457F-8C07-971EADE53977",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.30980392156862752,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 0.86274509803921606
+},
+"gradient" : {
+"stops" : [
+{
+"color" : {
+"red" : 0.30980392156862752,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 0.86274509803921606
+},
+"_class" : "gradientStop",
+"position" : 0
+},
+{
+"color" : {
+"red" : 0.1137254901960785,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.9137254901960784,
+"green" : 0.62745098039215685
+},
+"_class" : "gradientStop",
+"position" : 1
+}
+],
+"gradientType" : 0,
+"to" : "{0.5, 1}",
+"_class" : "gradient",
+"elipseLength" : 0,
+"from" : "{0.5, 0}"
+},
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"patternTileScale" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Primary color"
+}
 ],
 "_class" : "sharedStyleContainer"
 },
