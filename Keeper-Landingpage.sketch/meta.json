@@ -1,5 +1,5 @@
 {
-"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"commit" : "de199738bddcc38c4a5af7eee0589554d43d0bde",
 "pagesAndArtboards" : {
 "5343D105-52F6-4C44-BC24-FB7CAA6E5261" : {
 "name" : "Components",
@@ -27,7 +27,7 @@
 }
 }
 },
-"version" : 112,
+"version" : 118,
 "fonts" : [
 "OpenSans-Bold",
 "OpenSans",
@@ -38,20 +38,20 @@
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
+"autosaved" : 1,
 "variant" : "NONAPPSTORE",
 "created" : {
-"build" : 67491,
-"appVersion" : "52.6",
-"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"build" : 78076,
+"appVersion" : "55",
+"commit" : "de199738bddcc38c4a5af7eee0589554d43d0bde",
 "app" : "com.bohemiancoding.sketch3",
 "compatibilityVersion" : 99,
-"version" : 112,
+"version" : 118,
 "variant" : "NONAPPSTORE"
 },
 "saveHistory" : [
-"NONAPPSTORE.67491"
+"NONAPPSTORE.78076"
 ],
-"appVersion" : "52.6",
-"build" : 67491
+"appVersion" : "55",
+"build" : 78076
 }

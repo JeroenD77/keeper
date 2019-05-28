@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"endMarkerType" : 0,
-"startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
+"x" : 0,
 "y" : 0,
-"constrainProportions" : false,
 "_class" : "rect",
+"constrainProportions" : false,
 "height" : 300,
-"width" : 300,
-"x" : 0
+"width" : 300
 },
 "do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"exportFormats" : [
-
-],
+"shouldTrim" : false,
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"shouldTrim" : false
+"exportFormats" : [
+
+]
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -54,54 +54,6 @@
 "hasClippingMask" : false,
 "layers" : [
 {
-"isFlippedHorizontal" : false,
-"style" : {
-"endMarkerType" : 0,
-"startMarkerType" : 0,
-"windingRule" : 1,
-"_class" : "style",
-"miterLimit" : 10
-},
-"rotation" : 0,
-"frame" : {
-"y" : 114,
-"constrainProportions" : false,
-"_class" : "rect",
-"height" : 1024,
-"width" : 1440,
-"x" : 234
-},
-"do_objectID" : "C11A2F6F-2BB2-49A1-A592-EF890BC2239D",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"exportFormats" : [
-
-],
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
-"shouldTrim" : false
-},
-"hasClickThrough" : false,
-"hasBackgroundColor" : false,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"backgroundColor" : {
-"red" : 1,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 1,
-"green" : 1
-},
-"includeInCloudUpload" : true,
-"resizesContent" : false,
 "verticalRulerData" : {
 "base" : 0,
 "_class" : "rulerData",
@@ -109,17 +61,79 @@
 
 ]
 },
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"resizesContent" : false,
 "isFlippedVertical" : false,
-"nameIsFixed" : false,
-"name" : "Desktop HD",
-"isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
-"hasClippingMask" : false,
 "layers" : [
 
 ],
+"shouldBreakMaskChain" : true,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "artboard",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"presetDictionary" : {
+"height" : 1024,
+"offersLandscapeVariant" : 0,
+"name" : "Desktop HD",
+"allowResizedMatching" : 0,
+"width" : 1440
+},
 "isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"nameIsFixed" : false,
+"isFixedToViewport" : false,
+"hasClickThrough" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "Desktop HD",
+"resizingType" : 0,
+"do_objectID" : "C11A2F6F-2BB2-49A1-A592-EF890BC2239D",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 234,
+"y" : 114,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 1024,
+"width" : 1440
+},
 "layout" : {
 "columnWidth" : 70,
 "totalWidth" : 1170,
@@ -135,23 +149,15 @@
 "numberOfColumns" : 12,
 "rowHeightMultiplication" : 5
 },
-"shouldBreakMaskChain" : true,
-"isFlowHome" : false,
-"isFixedToViewport" : false,
-"presetDictionary" : {
-"width" : 1440,
-"offersLandscapeVariant" : 0,
-"height" : 1024,
-"allowResizedMatching" : 0,
-"name" : "Desktop HD"
-},
-"_class" : "artboard",
-"booleanOperation" : -1,
-"resizingConstraint" : 63,
-"includeBackgroundColorInExport" : true
+"layerListExpandedType" : 0,
+"isFlippedHorizontal" : false,
+"resizingConstraint" : 63
 }
 ],
 "isLocked" : false,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
 "shouldBreakMaskChain" : false,
 "isFixedToViewport" : false,
 "_class" : "page",

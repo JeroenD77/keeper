@@ -7,11 +7,11 @@
 "_class" : "style",
 "borders" : [
 {
-"position" : 1,
+"thickness" : 1,
 "fillType" : 0,
 "_class" : "border",
 "isEnabled" : false,
-"thickness" : 1,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
@@ -82,20 +82,26 @@
 "_class" : "sharedStyleContainer"
 },
 "assets" : {
-"gradients" : [
+"_class" : "assetCollection",
+"colorAssets" : [
+
+],
+"images" : [
 
 ],
 "colors" : [
 
 ],
-"_class" : "assetCollection",
+"gradientAssets" : [
+
+],
 "imageCollection" : {
 "images" : {
 
 },
 "_class" : "imageCollection"
 },
-"images" : [
+"gradients" : [
 
 ]
 },
