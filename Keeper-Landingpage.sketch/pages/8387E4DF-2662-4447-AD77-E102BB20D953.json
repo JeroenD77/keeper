@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
+"miterLimit" : 10,
 "windingRule" : 1,
-"_class" : "style",
-"endMarkerType" : 0
+"_class" : "style"
 },
 "rotation" : 0,
 "frame" : {
 "y" : 0,
-"x" : 0,
+"width" : 300,
 "constrainProportions" : false,
+"x" : 0,
 "_class" : "rect",
-"height" : 300,
-"width" : 300
+"height" : 300
 },
 "do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -79,11 +79,11 @@
 "hasBackgroundColor" : false,
 "isFlowHome" : false,
 "presetDictionary" : {
-"height" : 1024,
+"allowResizedMatching" : 0,
 "offersLandscapeVariant" : 0,
+"height" : 1024,
 "name" : "Desktop HD",
-"width" : 1440,
-"allowResizedMatching" : 0
+"width" : 1440
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -99,22 +99,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
+"miterLimit" : 10,
 "windingRule" : 1,
-"_class" : "style",
-"endMarkerType" : 0
+"_class" : "style"
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Desktop HD",
 "resizingType" : 0,
@@ -128,11 +128,11 @@
 },
 "frame" : {
 "y" : 114,
-"x" : 234,
+"width" : 1440,
 "constrainProportions" : false,
+"x" : 234,
 "_class" : "rect",
-"height" : 1024,
-"width" : 1440
+"height" : 1024
 },
 "layout" : {
 "columnWidth" : 70,
