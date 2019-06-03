@@ -1,35 +1,6 @@
 {
 "commit" : "1b735aa8f66d3e13f8900ae7c369f355f0eb2d3a",
-"pagesAndArtboards" : {
-"5343D105-52F6-4C44-BC24-FB7CAA6E5261" : {
-"name" : "Components",
-"artboards" : {
-
-}
-},
-"3D9B5C52-D8DD-4FE6-B4EC-62897C15F7DD" : {
-"name" : "Design System",
-"artboards" : {
-"9E7BA3C3-ACB1-48AF-9468-3980745B8B56" : {
-"name" : "Typography"
-},
-"E7099D27-B87D-4C02-8509-7595A864B4DC" : {
-"name" : "Color styles"
-},
-"CFB61599-B265-412A-9E13-7EF112B6B59A" : {
-"name" : "Molecules"
-}
-}
-},
-"8387E4DF-2662-4447-AD77-E102BB20D953" : {
-"name" : "Page 1",
-"artboards" : {
-"C11A2F6F-2BB2-49A1-A592-EF890BC2239D" : {
-"name" : "Desktop HD"
-}
-}
-}
-},
+"build" : 78136,
 "version" : 118,
 "fonts" : [
 "OpenSans-Bold",
@@ -56,5 +27,34 @@
 "NONAPPSTORE.78136"
 ],
 "appVersion" : "55.1",
-"build" : 78136
+"pagesAndArtboards" : {
+"5343D105-52F6-4C44-BC24-FB7CAA6E5261" : {
+"name" : "Components",
+"artboards" : {
+
+}
+},
+"3D9B5C52-D8DD-4FE6-B4EC-62897C15F7DD" : {
+"name" : "Design System",
+"artboards" : {
+"9E7BA3C3-ACB1-48AF-9468-3980745B8B56" : {
+"name" : "Typography"
+},
+"CFB61599-B265-412A-9E13-7EF112B6B59A" : {
+"name" : "Molecules"
+},
+"E7099D27-B87D-4C02-8509-7595A864B4DC" : {
+"name" : "Color styles"
+}
+}
+},
+"8387E4DF-2662-4447-AD77-E102BB20D953" : {
+"name" : "Page 1",
+"artboards" : {
+"C11A2F6F-2BB2-49A1-A592-EF890BC2239D" : {
+"name" : "Desktop HD"
+}
+}
+}
+}
 }
