@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
 "y" : 0,
+"x" : 0,
 "constrainProportions" : false,
 "_class" : "rect",
 "height" : 0,
-"width" : 0,
-"x" : 0
+"width" : 0
 },
 "do_objectID" : "5343D105-52F6-4C44-BC24-FB7CAA6E5261",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"exportFormats" : [
-
-],
+"shouldTrim" : false,
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"shouldTrim" : false
+"exportFormats" : [
+
+]
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
