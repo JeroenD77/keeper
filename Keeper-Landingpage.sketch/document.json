@@ -7,21 +7,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -42,7 +42,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/Primary"
@@ -53,21 +53,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -88,7 +88,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/Secondary"
@@ -99,30 +99,30 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
 "color" : {
-"red" : 1,
+"red" : 0.9137254901960784,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0,
-"green" : 0.67450980392156867
+"blue" : 0.1137254901960784,
+"green" : 0.40000000000000002
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -134,7 +134,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/Tertiary"
@@ -145,21 +145,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -180,7 +180,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/Quaternary"
@@ -191,21 +191,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -226,7 +226,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/Quinary"
@@ -237,21 +237,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -272,7 +272,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/Borders"
@@ -283,21 +283,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -318,7 +318,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/LightGrey"
@@ -329,21 +329,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -364,7 +364,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/DarkGrey"
@@ -375,21 +375,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -410,7 +410,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Color\/Black"
@@ -421,20 +421,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
 "color" : {
 "red" : 0.91764705882352937,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.93725490196078431,
 "green" : 0.92156862745098034
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
+"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -457,7 +458,6 @@
 "isEnabled" : false
 }
 ],
-"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -478,7 +478,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/white"
@@ -489,20 +489,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 0.75,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 2,
 "color" : {
 "red" : 1,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 1,
 "green" : 1
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 2,
-"thickness" : 0.75
+}
 }
 ],
+"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -525,7 +526,6 @@
 "isEnabled" : true
 }
 ],
-"endMarkerType" : 0,
 "innerShadows" : [
 {
 "_class" : "innerShadow",
@@ -568,7 +568,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/white 0.75px"
@@ -579,20 +579,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0,
 "green" : 0
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
+"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -615,7 +616,6 @@
 "isEnabled" : true
 }
 ],
-"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -636,7 +636,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/White 1px"
@@ -647,20 +647,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1.5,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0,
 "green" : 0
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1.5
+}
 }
 ],
+"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -683,7 +684,6 @@
 "isEnabled" : true
 }
 ],
-"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -704,7 +704,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/White 1,5px"
@@ -715,20 +715,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 2,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0,
 "green" : 0
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 2
+}
 }
 ],
+"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -751,7 +752,6 @@
 "isEnabled" : true
 }
 ],
-"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -772,7 +772,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/White 2px"
@@ -783,21 +783,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 2,
 "color" : {
 "red" : 0.62995758218451781,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.47006009190526682,
 "green" : 0.78985507246376807
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 2,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -818,7 +818,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/Succes"
@@ -829,21 +829,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 0.75,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
 "color" : {
 "red" : 0.86016881465911865,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.8195996880531311,
 "green" : 0.79943186044692993
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 1,
-"thickness" : 0.75
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -864,7 +864,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/Error"
@@ -875,21 +875,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
 "color" : {
 "red" : 0.54509803921568623,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.98431372549019602,
 "green" : 0.8274509803921567
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -910,7 +910,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/Error Solid"
@@ -921,21 +921,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1.5,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
 "color" : {
 "red" : 0.1137254901960785,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.9137254901960784,
 "green" : 0.62745098039215685
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 1,
-"thickness" : 1.5
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -956,7 +956,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/Focus"
@@ -967,20 +967,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 2,
 "color" : {
 "red" : 0.91764705882352937,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.93725490196078431,
 "green" : 0.92156862745098034
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 2,
-"thickness" : 1
+}
 }
 ],
+"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -1003,7 +1004,6 @@
 "isEnabled" : true
 }
 ],
-"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1033,7 +1033,7 @@
 },
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/Hover"
@@ -1044,21 +1044,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1.5,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
 "color" : {
 "red" : 0.015686274509803991,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.7803921568627451,
 "green" : 0.50588235294117645
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 1,
-"thickness" : 1.5
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -1079,7 +1079,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Border\/Active"
@@ -1090,21 +1090,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
 "color" : {
 "red" : 0.1137254901960785,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.9137254901960784,
 "green" : 0.62745098039215685
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -1125,7 +1125,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/primary 1px"
@@ -1136,21 +1136,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
 "color" : {
 "red" : 0.30980392156862752,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 1,
 "green" : 0.86274509803921606
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -1171,7 +1171,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/secondary 1px"
@@ -1182,21 +1182,21 @@
 "_class" : "style",
 "borders" : [
 {
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
 "color" : {
 "red" : 0.54509803921568623,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.98431372549019602,
 "green" : 0.8274509803921567
-},
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 1,
-"thickness" : 1
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -1217,7 +1217,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/quinary 1px"
@@ -1228,21 +1228,21 @@
 "_class" : "style",
 "borders" : [
 {
-"color" : {
-"red" : 1,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0.67450980392156867
-},
+"thickness" : 1,
 "fillType" : 0,
 "_class" : "border",
 "isEnabled" : true,
 "position" : 1,
-"thickness" : 1
+"color" : {
+"red" : 0.9137254901960784,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1137254901960784,
+"green" : 0.40000000000000002
+}
 }
 ],
-"endMarkerType" : 0,
+"miterLimit" : 10,
 "fills" : [
 {
 "_class" : "fill",
@@ -1263,10 +1263,124 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 0,
-"miterLimit" : 10
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Borders\/tertiary 1px"
+},
+{
+"do_objectID" : "C9EA7B9D-3814-48F5-A06E-56E813B4B6F7",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20151154891304349,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 0,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 10,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0.67323369565217395
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Alt color"
+},
+{
+"do_objectID" : "E37E93B9-E7F4-4D14-A3E3-981E9DAF4D06",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1.5,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.015686274509803991,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.50588235294117645
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Color\/white"
 }
 ],
 "_class" : "sharedStyleContainer"
@@ -1354,11 +1468,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-bold\/ Style"
@@ -1394,11 +1508,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -1434,11 +1548,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -1474,11 +1588,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -1514,11 +1628,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -1554,11 +1668,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-bol Style"
@@ -1594,11 +1708,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -1634,11 +1748,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -1674,11 +1788,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -1714,11 +1828,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -1754,11 +1868,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-bold\/ Style"
@@ -1794,11 +1908,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-defau Style"
@@ -1834,11 +1948,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-itali Style"
@@ -1874,11 +1988,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-defau Style"
@@ -1914,11 +2028,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-light Style"
@@ -1954,11 +2068,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-bol Style"
@@ -1994,11 +2108,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-def Style"
@@ -2034,11 +2148,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-ita Style"
@@ -2074,11 +2188,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-def Style"
@@ -2114,11 +2228,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-lig Style"
@@ -2154,11 +2268,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-bold- Style"
@@ -2194,11 +2308,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -2234,11 +2348,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -2274,11 +2388,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -2314,11 +2428,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-left-defau Style"
@@ -2354,11 +2468,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-bold- Style"
@@ -2394,11 +2508,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-defau Style"
@@ -2434,11 +2548,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-itali Style"
@@ -2474,11 +2588,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-defau Style"
@@ -2514,11 +2628,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-left-light Style"
@@ -2554,11 +2668,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-bol Style"
@@ -2594,11 +2708,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -2634,11 +2748,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -2674,11 +2788,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -2714,11 +2828,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-large-center-def Style"
@@ -2754,11 +2868,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-def Style"
@@ -2794,11 +2908,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-ita Style"
@@ -2834,11 +2948,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-def Style"
@@ -2874,11 +2988,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Par-small-center-lig Style"
@@ -2914,11 +3028,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-disabled Style"
@@ -2954,11 +3068,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-link\/ Style"
@@ -2994,11 +3108,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-prime\/ Style"
@@ -3034,11 +3148,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-sec\/ Style"
@@ -3074,11 +3188,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-disabl Style"
@@ -3114,11 +3228,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-link\/ Style"
@@ -3154,11 +3268,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-prime\/ Style"
@@ -3194,11 +3308,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-sec\/ Style"
@@ -3234,11 +3348,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-disabled Style"
@@ -3274,11 +3388,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-link-inv Style"
@@ -3314,11 +3428,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-prime-in Style"
@@ -3354,11 +3468,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-left-sec-inv\/ Style"
@@ -3394,11 +3508,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-disabl Style"
@@ -3434,11 +3548,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-link-i Style"
@@ -3474,11 +3588,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-prime- Style"
@@ -3514,11 +3628,11 @@
 }
 }
 },
-"endMarkerType" : 0,
+"windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
 "startMarkerType" : 0,
-"windingRule" : 1
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button-center-sec-in Style"
